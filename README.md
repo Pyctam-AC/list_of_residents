@@ -48,4 +48,9 @@ PUT
 npm run dev
 ```
 
+приложение открывается локально по ссылке
+```html
+http://localhost:5173/
+```
+
 Стэк приложения: ReactJS, Vite
